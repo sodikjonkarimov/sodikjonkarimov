@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @sodikjonkarimov
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via email.
+# Hi there! 👋
+
+I'm Sodikjon Karimov (@sodikjonkarimov), and I'm passionate about PHP development.
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+👀 I’m currently focusing on honing my skills in PHP.
+
+🌱 I’m also delving into the exciting world of React to broaden my horizons.
+
+💻 **My Code Stacks:**
+- PHP
+- Yii2
+- WordPress
+- JavaScript (including React)
+
+💞️ Open to collaboration opportunities, let's build something amazing together!
+
+📫 Feel free to reach out to me via email.
 
 <!---
 sodikjonkarimov/sodikjonkarimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
