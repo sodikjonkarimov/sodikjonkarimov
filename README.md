@@ -14,6 +14,9 @@ I'm Sodikjon Karimov (@sodikjonkarimov), and I'm passionate about PHP developmen
 - WordPress
 - JavaScript (including React)
 
+🔥 **My Stats:**
+- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sodikjonkarimov&show_icons=true&count_private=true&hide=contribs)](https://github.com/sodikjonkarimov)
+
 💞️ Open to collaboration opportunities, let's build something amazing together!
 
 📫 Feel free to reach out to me via email.
