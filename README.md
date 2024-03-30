@@ -9,13 +9,11 @@ I'm Sodikjon Karimov (@sodikjonkarimov), and I'm passionate about PHP developmen
 🌱 I’m also delving into the exciting world of React to broaden my horizons.
 
 💻 **My Code Stacks:**
+- HTML, CSS, JS
 - PHP
 - Yii2
 - WordPress
 - JavaScript (including React)
-
-🔥 **My Stats:**
-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sodikjonkarimov&show_icons=true&count_private=true&hide=contribs)](https://github.com/sodikjonkarimov)
 
 💞️ Open to collaboration opportunities, let's build something amazing together!
 
