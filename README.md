@@ -17,7 +17,7 @@ I'm **Sodikjon Karimov** (@sodikjonkarimov), and I'm passionate about PHP develo
 - WordPress
 - JavaScript (including React)
 
-💞️ Open to collaboration opportunities — let's build something amazing together!
+ 🤝  Open to collaboration opportunities — let's build something amazing together!
 
 📫 Feel free to reach out to me via email: **[sodikjonkarimov@gmail.com]**
 
