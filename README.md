@@ -19,6 +19,6 @@ I'm **Sodikjon Karimov** (@sodikjonkarimov), and I'm passionate about PHP develo
 
 💞️ Open to collaboration opportunities — let's build something amazing together!
 
-📫 Feel free to reach out to me via email: **[your-email@example.com]**
+📫 Feel free to reach out to me via email: **[sodikjonkarimov@gmail.com]**
 
 ---
